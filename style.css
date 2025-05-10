@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f3f4f6;
+  color: #333;
+  margin: 0;
+  padding: 2rem;
+}
+
+h1 {
+  color: #ff9900;
+}
+
+.logo-container {
+  margin: 2rem auto;
+}
+p {
+  font-size: 25px;
+}
+#time,
+#date {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 1rem;
+}
